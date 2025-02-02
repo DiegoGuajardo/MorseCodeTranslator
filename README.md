@@ -70,7 +70,7 @@ This is a free application with no restrictions on use.
 
 ## Contact
 
-For any questions or suggestions, contact `your.email@example.com` or open an issue on GitHub.
+For any questions or suggestions, contact `DiegoGGuajardo@yahoo.com` or open an issue on GitHub.
 
 ## Repository
 
