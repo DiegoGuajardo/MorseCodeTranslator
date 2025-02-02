@@ -1,6 +1,7 @@
 # Morse Code Translator
 
 ## Overview
+Morse Code Translator was developed as a final project by "DotDashDevs", a group of six (6) students from the University of Maryland Global Campus.
 
 Morse Code Translator is a simple application that allows users to convert text into Morse code and vice versa. Additionally, the app provides audio playback of the Morse code in beeps to enhance learning and practical use.
 
